@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ClangTidy" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="clangTidyCheckOptions">
+        <list>
+          <ClangTidyCheckOption>
+            <option name="optionName" value="cppcoreguidelines-avoid-c-arrays.AllowStringArrays" />
+            <option name="optionValue" value="true" />
+          </ClangTidyCheckOption>
+          <ClangTidyCheckOption>
+            <option name="optionName" value="cppcoreguidelines-avoid-do-while.IgnoreMacros" />
+            <option name="optionValue" value="true" />
+          </ClangTidyCheckOption>
+          <ClangTidyCheckOption>
+            <option name="optionName" value="cppcoreguidelines-avoid-magic-numbers.IgnoreAllFloatingPointValues" />
+            <option name="optionValue" value="true" />
+          </ClangTidyCheckOption>
+          <ClangTidyCheckOption>
+            <option name="optionName" value="cppcoreguidelines-narrowing-conversions.PedanticMode" />
+            <option name="optionValue" value="true" />
+          </ClangTidyCheckOption>
+          <ClangTidyCheckOption>
+            <option name="optionName" value="cppcoreguidelines-special-member-functions.AllowImplicitlyDeletedCopyOrMove" />
+            <option name="optionValue" value="true" />
+          </ClangTidyCheckOption>
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

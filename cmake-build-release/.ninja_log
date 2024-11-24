@@ -1,0 +1,16 @@
+# ninja log v6
+29	228	7540899340508783	CMakeFiles/packageParser.dir/src/file_reader.c.obj	9205f81f089fdbcb
+3	127	7540902963425033	packageParser.exe	233ca82d78098c2
+52	252	7540899340738010	CMakeFiles/packageParser.dir/src/data_recorder.c.obj	c7a59828c3bcc8b2
+4	178	7540900667139741	CMakeFiles/packageParser.dir/src/packet_parser.c.obj	dfd59fb75596767a
+4	715	7540901580445128	CMakeFiles/packageParser.dir/src/main.c.obj	e13aa5d0fb497761
+43	875	7540895142764074	CMakeFiles/packageParser.dir/src/file_selector.c.obj	cdecd7a65a43550a
+1	272	7540904995572349	build.ninja	e2239e59e7d716b7
+2	280	7540904995572349	build.ninja	e2239e59e7d716b7
+3	137	7540904995925579	packageParser.exe	3ce7cee750d2b156
+20	165	7541180127125198	CMakeFiles/packageParser.dir/src/file_reader.c.obj	9205f81f089fdbcb
+58	165	7541180127503931	CMakeFiles/packageParser.dir/src/data_recorder.c.obj	c7a59828c3bcc8b2
+45	216	7541180127374362	CMakeFiles/packageParser.dir/src/packet_parser.c.obj	dfd59fb75596767a
+5	760	7541180126975698	CMakeFiles/packageParser.dir/src/main.c.obj	e13aa5d0fb497761
+33	782	7541180127254766	CMakeFiles/packageParser.dir/src/file_selector.c.obj	cdecd7a65a43550a
+782	885	7541180134749698	packageParser.exe	3ce7cee750d2b156

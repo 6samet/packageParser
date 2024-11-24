@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/lentatekTeknikMulakat/workingDirectory/packageParser/cmake-build-release/CMakeFiles/packageParser.dir
+C:/Users/user/Desktop/lentatekTeknikMulakat/workingDirectory/packageParser/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/lentatekTeknikMulakat/workingDirectory/packageParser/cmake-build-release/CMakeFiles/rebuild_cache.dir
